@@ -20,7 +20,7 @@ footer{
     height:100%;
 }
 .jl_car_header_text{
-    font-size: 100%;
+    font-size: 20px;
     padding-left: 10px;
     color:#ffffff;
     transition: 0.5s;
