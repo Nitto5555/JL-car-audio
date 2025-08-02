@@ -14,12 +14,15 @@ footer{
     position: absolute;
     background-color: #202020;
 }
-.JL_car_audio::before{
+.JL_car_audio_text::before{
     content:JL car Audio;
 }
-.JL_car_audio:hover::before{
+.JL_car_audio_text:hover::before{
     content:Jum Lee car Audio;
 }
 div{
     display: inline;
+}
+.JL_car_audio_logo{
+    background-image: url(img/jl_car.png);
 }
