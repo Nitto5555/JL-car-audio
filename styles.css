@@ -5,7 +5,7 @@ body{
 }
 header{
     position: absolute;
-    height:50px;
+    height:100px;
     background-color: #202020;
     border-bottom: 2px solid #cc0000;
 }
@@ -14,18 +14,18 @@ footer{
     background-color: #202020;
 }
 img{
-    display: inline-block;
+    display: inline;
 }
 p{
-    display: inline-block;
+    display: inline;
 }
 button{
-    display: inline-block;
+    display: inline;
 }
-p.JL_car_audio::before{
+.JL_car_audio::before{
     content:JL car Audio;
 }
-p.JL_car_audio:hover::before{
+.JL_car_audio:hover::before{
     content:Jum Lee car Audio;
 }
 div{
