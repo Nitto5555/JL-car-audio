@@ -14,9 +14,8 @@ footer{
     position: absolute;
     background-color: #202020;
 }
-.JL_car_audio_logo{
+.jl_car_logo{
     left: 0;
     height:80px;
-    width: 100px;
     background-image: url(img/jl_car.png);
 }
