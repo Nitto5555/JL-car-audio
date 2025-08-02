@@ -28,3 +28,6 @@ p.JL_car_audio::before{
 p.JL_car_audio:hover::before{
     content:Jum Lee car Audio;
 }
+div{
+    display: inline;
+}
