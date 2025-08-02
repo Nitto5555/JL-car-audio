@@ -9,6 +9,7 @@ header{
     background-color: #202020;
     border-bottom: 2px solid #cc0000;
     width: 100%;
+    display: flex;
 }
 footer{
     position: absolute;
@@ -25,4 +26,5 @@ footer{
 }
 div{
     display: inline-block;
+    float: left;
 }
