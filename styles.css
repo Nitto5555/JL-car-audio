@@ -17,6 +17,9 @@ footer{
 img{
     display: inline-block;
 }
+p{
+    display: inline-block;
+}
 button{
     display: inline-block;
 }
