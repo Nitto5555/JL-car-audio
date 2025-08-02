@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+    background-color: #202020;
+}
+header{
+    position: absolute;
+    height:50px;
+    background-color: #202020;
+    border-bottom: rgb(199, 0, 0);
+}
+footer{
+    position: absolute;
+    background-color: #202020;
+    border-top: rgb(199, 0, 0);
+}
+img{
+    display: inline-block;
+}
+button{
+    display: inline-block;
+}
+p.JL_car_audio::before{
+    content:JL car Audio;
+}
+p.JL_car_audio:hover::before{
+    content:Jum Lee car Audio;
+}
