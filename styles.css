@@ -7,12 +7,11 @@ header{
     position: absolute;
     height:50px;
     background-color: #202020;
-    border-bottom: rgb(199, 0, 0);
+    border-bottom: 2px solid #cc0000;
 }
 footer{
     position: absolute;
     background-color: #202020;
-    border-top: rgb(199, 0, 0);
 }
 img{
     display: inline-block;
