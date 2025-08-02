@@ -14,9 +14,6 @@ footer{
     position: absolute;
     background-color: #202020;
 }
-p.JL_car_audio_text:hover::after{
-    content:Jum Lee car Audio;
-}
 .JL_car_audio_logo{
     left: 0;
     height:80px;
