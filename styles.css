@@ -8,6 +8,7 @@ header{
     height:100px;
     background-color: #202020;
     border-bottom: 2px solid #cc0000;
+    width: 100%;
 }
 footer{
     position: absolute;
