@@ -18,6 +18,11 @@ footer{
     left: 0;
     height:100%;
 }
-.jl_car_header_text{
+.jl_car_header_text::after{
     color:#ffffff;
+    content: JL car Audio;
+    transition: 0.5s;
+}
+.jl_car_header_text:hover::after{
+    content: Jum & Lee car Audio;
 }
