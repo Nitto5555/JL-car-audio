@@ -16,6 +16,8 @@ footer{
 }
 .jl_car_logo{
     left: 0;
-    height:80px;
-    background-image: url(img/jl_car.png);
+    height:100%;
+}
+.jl_car_header_text{
+    color:#ffffff;
 }
