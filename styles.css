@@ -16,14 +16,13 @@ footer{
 }
 .JL_car_audio_text::before{
     height:80px;
+    width: 100px;
     content:JL car Audio;
 }
 .JL_car_audio_text:hover::before{
     height:80px;
+    width: auto;
     content:Jum Lee car Audio;
-}
-div{
-    display: inline;
 }
 .JL_car_audio_logo{
     height:80px;
